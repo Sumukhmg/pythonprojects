@@ -5,7 +5,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
-# Python-Mini-Projects
+# PythonProjects
 
 [![All Contributors](https://img.shields.io/github/contributors/sumukhmg/pythonprojects)](#contributors-)
 ![Issues](https://img.shields.io/github/issues/sumukhmg/pythonprojects)
@@ -71,7 +71,7 @@ A collection of simple python projects from beginner to Advanced level to enhanc
 
 - ## Connect On Social media
 
-[Twitter](https://img.shields.io/twitter/follow/sumukhmg?style=social)
+[Twitter](https://www.twitter.com/sumukhmg)
 [Linkedin](https://www.linkedin.com/in/sumukh-mg/)
-[GitHub](https://img.shields.io/github/followers/sumukhmg?style=social)
+
 
