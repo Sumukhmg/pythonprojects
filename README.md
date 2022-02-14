@@ -36,8 +36,7 @@ A collection of simple python projects from beginner to Advanced level to enhanc
 
 	Learn more about
  [forking](https://help.github.com/en/github/getting-started-with-github/fork-a-repo) and 
- [cloning a repo]
- (https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository).
+ [cloning a repo](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository).
  
 - If you run into a **merge conflict**, you have to resolve the conflict. There are a lot of guides online, or you can try this one by [opensource.com](https://opensource.com/article/20/4/git-merge-conflict).
 
