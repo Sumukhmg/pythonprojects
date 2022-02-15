@@ -1,0 +1,28 @@
+import time
+import sys
+
+# it will only accept lowercase inputs.
+# the steps are: 1 - start stopwatch, 2 - stop stopwatch and 3 - calculate time passed.
+
+start = input('Start stopwatch? y/n: ')
+if start == "y":
+    startTime = time.time()
+else:
+    print("program closed")
+    sys.exit()  # the sys.exit() when activated will exit and stop the script
+
+
+finish = input("Stop? y/n: ")
+if finish == "y":
+    finishTime = time.time()
+else:
+    print("program closed")
+    sys.exit()
+
+
+calculate = input("Calculate? y/n: ")
+if calculate == "y":
+    print("Time passed =", (finishTime - startTime), "seconds.")
+else:
+    print("program closed")
+    sys.exit()
