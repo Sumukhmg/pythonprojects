@@ -14,6 +14,7 @@
 ![Stars](https://img.shields.io/github/stars/sumukhmg/pythonprojects)
 ![License](https://img.shields.io/github/license/sumukhmg/pythonprojects)
 
+<h3>note: The code belong to the respective owners...this Repo contains collection of all those projects</h3>
 A collection of simple python projects from beginner to Advanced level to enhance your Python skills.
 
 ## Steps To Follow
