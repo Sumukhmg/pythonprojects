@@ -1,4 +1,4 @@
-
+#code credits: Kylie Ying
 import random
 import re
 
