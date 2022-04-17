@@ -14,8 +14,7 @@ website_list = ["www.facebook.com","facebook.com","dub119.mail.live.com","www.du
 while True:
   
     # time of your work
-    if dt(dt.now().year, dt.now().month, dt.now().day,8) 
-    < dt.now() < dt(dt.now().year, dt.now().month, dt.now().day,16):
+    if dt(dt.now().year, dt.now().month, dt.now().day,8) < dt.now() < dt(dt.now().year, dt.now().month, dt.now().day,16):
         print("Working hours...")
         with open(hosts_path, 'r+') as file:
             content = file.read()
