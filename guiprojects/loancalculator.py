@@ -1,3 +1,6 @@
+import tkinter as Tk
+
+
 def __init__(self):
 	# Create a window
 	window = Tk()
